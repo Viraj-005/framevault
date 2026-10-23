@@ -211,7 +211,11 @@ For bugs, include the Chrome version, a supported page URL if safe to share, out
 
 For a new platform, describe the page types, image hosts, and how the adapter would respect the site's terms. Start with a small issue before building a broad crawler.
 
-There is currently no project license file. Review that before reusing or redistributing the source. Dependencies have their own licenses.
+## License
+
+FrameVault's original source code is available under the [MIT License](LICENSE).
+
+Third-party dependencies retain their own licenses. Platform logos and the artwork shown in screenshots belong to their respective owners and are not covered by FrameVault's MIT license. Downloaded references also retain their original ownership and usage terms.
 
 ## Respect the work you collect
 
